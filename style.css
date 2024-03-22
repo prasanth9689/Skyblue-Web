@@ -21,7 +21,7 @@ img {
 }
 
 nav {
-    padding: 0px 2%;
+    padding: 4px 2%;
     justify-content: space-between;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     background: #fff;
@@ -189,7 +189,7 @@ nav {
 /* main Body */
 .container {
     background: #f9f9f9;
-    padding-left: 17%;
+    padding-left: 1%;
     padding-right: 2%;
     padding-top: 20px;
     padding-bottom: 20px;
